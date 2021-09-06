@@ -27,8 +27,12 @@ public class Sorter {
 
     }
 
-    public void write() {
+    public void write()throws IOException {
         System.out.println("Sorted names are " + sorted);
+        FileWriter out = new FileWriter("Results1.txt");
+        out.write(sorted);
+        out.close();
+
     }
 
 
