@@ -5,6 +5,17 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.io.*;
 
+
+/*
+sources :
+https://www.delftstack.com/howto/java/java-end-program/
+https://stackoverflow.com/questions/2920525/how-to-check-a-string-against-null-in-java/2921947
+https://www.geeksforgeeks.org/sort-a-string-in-java-2-different-ways/
+https://www.w3schools.com/java/java_user_input.asp
+https://www.studytonight.com/java/package-in-java.php
+
+* */
+
 public class Sorter {
 
     String userInput;
