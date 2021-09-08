@@ -1,7 +1,7 @@
 Started on java 1.8
 
 
-###Team:
+### Team:
 Isabelle Brandes
 
 Trevor Jedziniak
@@ -9,7 +9,7 @@ Trevor Jedziniak
 John Wilson
 
 
-
+### Extra Comments
 ex 1 by Trevor
 
 ex 2 by Isabelle
